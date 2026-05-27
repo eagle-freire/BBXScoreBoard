@@ -7,6 +7,7 @@ Simple scoreboard for Beyblade X tourneys.
 - [ ] Buttons for spin finish, over finish, burst finish and extreme finish
 - [ ] Penalty counter
 - [ ] Timer for deck shuffling
+- [ ] WebApp
 
 ## To be implemented:
 - [ ] Visuals for finishes
