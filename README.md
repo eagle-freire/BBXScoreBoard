@@ -18,3 +18,5 @@ Simple scoreboard for Beyblade X tourneys.
 - [ ] Coin Toss for stadium side pick
 - [ ] API implementation with start.gg bracket to pull matches and auto report
 - [ ] API implementation with challonge bracket to pull matches and auto report
+
+Inspired by CyberBBlader's scoreboard.
